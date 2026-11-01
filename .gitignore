@@ -1,0 +1,17 @@
+# Public showcase allowlist: application source/data/build files stay outside this repo.
+/*
+!/.gitignore
+!/README.md
+!/USAGE.md
+!/THIRD_PARTY_NOTICES.md
+!/LICENSES/
+/LICENSES/*
+!/LICENSES/wcdb-key-tool.txt
+!/assets/
+/assets/*
+!/assets/icon.png
+!/assets/screenshots/
+/assets/screenshots/*
+!/assets/screenshots/account.png
+!/assets/screenshots/chats.png
+!/assets/screenshots/export-range.png
